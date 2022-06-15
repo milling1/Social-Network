@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "monterey_jack___rescue_rangers_by_johnslaughter_d855mqp-fullview Small.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
